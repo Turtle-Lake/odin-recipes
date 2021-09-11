@@ -1,0 +1,41 @@
+
+body {
+    background-color: black;
+    color: rgb(202, 187, 187);
+    text-align: center;
+}
+
+
+img {
+  /* background-color: aqua; */
+  align-self: center;
+}
+
+a {
+    color: aqua;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+p {
+    font-size: 20px;
+}
+
+li {
+    /* display:inline; */
+    margin:10px auto;
+    margin-left: -40px;
+    padding: 3px;
+    font-size:16px;
+    list-style: none;
+    align-self: auto; 
+    
+}
+
+.food {
+    height: 300px;
+    width: auto;
+}
